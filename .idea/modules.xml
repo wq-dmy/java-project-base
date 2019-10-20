@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../java-email/java-email.iml" filepath="$PROJECT_DIR$/../java-email/java-email.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../java-general-tool/java-general-tool.iml" filepath="$PROJECT_DIR$/../java-general-tool/java-general-tool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../java-jar-run/java-jar-run.iml" filepath="$PROJECT_DIR$/../java-jar-run/java-jar-run.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../java-jedis-client/java-jedis-client.iml" filepath="$PROJECT_DIR$/../java-jedis-client/java-jedis-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-project-base.iml" filepath="$PROJECT_DIR$/java-project-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../java-wechat-service/java-wechat-service.iml" filepath="$PROJECT_DIR$/../java-wechat-service/java-wechat-service.iml" />
+    </modules>
+  </component>
+</project>
