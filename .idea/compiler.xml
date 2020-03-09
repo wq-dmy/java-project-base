@@ -15,11 +15,11 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="java-email" target="1.7" />
-      <module name="java-general-tool" target="1.8" />
-      <module name="java-jar-run" target="1.8" />
-      <module name="java-jedis-client" target="1.8" />
+      <module name="java-general-tool" target="1.7" />
+      <module name="java-jar-run" target="1.7" />
+      <module name="java-jedis-client" target="1.7" />
       <module name="java-project-base" target="1.8" />
-      <module name="java-wechat-service" target="1.8" />
+      <module name="java-wechat-service" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
